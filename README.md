@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *Computer Science*
 
-- 💬 Currently pursuing my Master's in Computer Science from NSIT, Delhi.
+- 💬 Completed my Master's in Computer Science from NSIT, Delhi.
 
 - 📫 Reach out to me - *nishant.nishantkaushik.nishant@gmail.com*
 
